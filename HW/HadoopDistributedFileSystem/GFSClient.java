@@ -39,7 +39,7 @@
  * }
  */
  
- //My Method:
+ //My Method: [has bug??]
  public class GFSClient extends BaseGFSClient {
     /*
     * @param chunkSize: An integer
